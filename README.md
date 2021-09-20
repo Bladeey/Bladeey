@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Bladeey
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning PWN and HTML
-- 💞️ I’m looking to collaborate on No one yet
